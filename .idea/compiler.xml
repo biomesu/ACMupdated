@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Forge-Tutorial-1.19-29-hostileAttackAnimation.Forge-Tutorial-1.19-29-hostileAttackAnimation.main" target="17" />
+      <module name="Forge-Tutorial-1.19-29-hostileAttackAnimation.Forge-Tutorial-1.19-29-hostileAttackAnimation.test" target="17" />
+      <module name="net.steven.tutorialmod.Forge-Tutorial-1.19-29-hostileAttackAnimation" target="17" />
+      <module name="net.steven.tutorialmod.Forge-Tutorial-1.19-29-hostileAttackAnimation.main" target="17" />
+      <module name="net.steven.tutorialmod.Forge-Tutorial-1.19-29-hostileAttackAnimation.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

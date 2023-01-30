@@ -1,0 +1,133 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.igor.swim": {
+			"loop": true,
+			"animation_length": 0.8,
+			"bones": {
+				"tail123": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.2": {
+							"vector": [0, 15, 0],
+							"easing": "linear"
+						},
+						"0.4": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"0.6": {
+							"vector": [0, -15, 0],
+							"easing": "linear"
+						},
+						"0.8": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"tail12": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -20, 0]
+						},
+						"0.2": {
+							"vector": [0, -20, 0],
+							"easing": "linear"
+						},
+						"0.4": {
+							"vector": [0, 20, 0],
+							"easing": "linear"
+						},
+						"0.6": {
+							"vector": [0, 20, 0],
+							"easing": "linear"
+						},
+						"0.8": {
+							"vector": [0, -20, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"tail1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -22.26, 0]
+						},
+						"0.2": {
+							"vector": [0, -22.26, 0],
+							"easing": "linear"
+						},
+						"0.4": {
+							"vector": [0, 22.26, 0],
+							"easing": "linear"
+						},
+						"0.6": {
+							"vector": [0, 22.26, 0],
+							"easing": "linear"
+						},
+						"0.8": {
+							"vector": [0, -22.26, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		},
+		"animation.igor.hit": {
+			"animation_length": 0.6,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4": {
+							"vector": [50, 0, 0]
+						},
+						"0.56": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.igor.death": {
+			"animation_length": 0.24,
+			"bones": {
+				"ebalo": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, -90]
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [35, 0, 0]
+						}
+					}
+				},
+				"tail1234": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, -90]
+						}
+					}
+				}
+			}
+		}
+	}
+}
